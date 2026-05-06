@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sitesweb3.github.io/snippets-e6hdyb/sitemap.xml
